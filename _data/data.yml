@@ -47,13 +47,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Nicholas is an eager clinical informatics pharmacist with additional experience in the retail, ambulatory, inpatient, and oncology infusion pharmacy spaces.
 education:
     - degree: Doctor of Pharmacy
       university: State University of New York at Buffalo
