@@ -138,13 +138,12 @@ projects:
 publications:
     title: Publications &amp; Presentations
     intro: |
-    papers:
+    - papers:
       - title: "Oral Administration of Sustained Release Niacin Inhibits Platelet Aggregation."
         link: 
         authors: Nicholas B. Norgard, Nicholas R. Bacon, and Matthew Agosti.
         conference: "Current Clinical Pharmacology 11(1): 43-46."
-
-    presentations:
+    - presentations:
       - title: "Optimization of currently employed technologies used in the dispensing of discharge medications at the Miami VA Healthcare System."
         link: 
         authors: Nicholas R. Bacon, Pharm.D., Joshua McWilliam, Pharm.D., Leidi Paez, Pharm.D., Eric Gomez, Pharm.D.
