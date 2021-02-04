@@ -12,7 +12,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nicholas R. Bacon
+    name: Nicholas R. Bacon, Pharm.D., BCOP, BCPS
     tagline: Pharmacy Informatics Specialist - Oncology
     avatar: MCI headshot.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
