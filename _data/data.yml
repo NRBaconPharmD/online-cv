@@ -15,8 +15,8 @@ sidebar:
     email: NRBaconPharmD@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: NRBaconPharmD #do not add http://
-    github: NRBaconPharmD
+    linkedin: NRBaconPharmD #username only
+    github: NRBaconPharmD #username only
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -34,17 +34,13 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Nicholas is an eager clinical informatics pharmacist with additional experience in the retail, ambulatory, inpatient, and oncology infusion pharmacy spaces.
+    summary: Nicholas is a clinical informatics pharmacist with experience in the retail, ambulatory, inpatient, and oncology pharmacy spaces. He began working in informatics in 2019 and focuses on oncology applications of the EHR.
 education:
     - degree: Doctor of Pharmacy
       university: State University of New York at Buffalo
       time: 2006 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here 
           - Bullet point
           - Bullet point   
 experiences:
@@ -52,59 +48,35 @@ experiences:
       time: 2019 - Present
       company: Miami Cancer Institute, Baptist Health South Florida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here
           - Bullet point
           - Bullet point
     - role: Oncology Infusion Pharmacist
       time: 2018 - 2019
       company: Miami Cancer Institute, Baptist Health South Florida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here
           - Bullet point
           - Bullet point
     - role: Clinical Staff Pharmacist
       time: 2014 - 2018
       company: West Kendall Baptist Hospital, Baptist Health South Florida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here 
           - Bullet point
           - Bullet point
     - role: Clinical Staff Pharmacist
       time: 2013 - 2014
       company: Miami VA Healthcare System
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here 
           - Bullet point
           - Bullet point
     - role: PGY-1 Pharmacist
       time: 2012 - 2013
       company: Miami VA Healthcare System
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here
           - Bullet point
           - Bullet point
           
@@ -115,25 +87,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: 
 
-      - title: DevStudio
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 publications:
     title: Publications &amp; Presentations
@@ -158,23 +130,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 10%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
